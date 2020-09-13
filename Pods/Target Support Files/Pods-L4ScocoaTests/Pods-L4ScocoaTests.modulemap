@@ -1,0 +1,6 @@
+framework module Pods_L4ScocoaTests {
+  umbrella header "Pods-L4ScocoaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
